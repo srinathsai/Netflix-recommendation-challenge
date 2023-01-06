@@ -7,4 +7,18 @@ implemented model and refined with another model which stands 3rd in the contest
 * Netflix, then a service peddling discs of every movie and TV show under the sun, announced "The Netflix Prize," to achieve this goal which is the reason of the birth of latent factor model ***(implemented here)*** which stood 3rd place in the contest.
 
 ## Latent factor model and implementation :- 
+ ![This is an image](https://github.com/srinathsai/Netflix-recommendation-challenge/blob/main/1.jpg)
+ ![This is an image](https://github.com/srinathsai/Netflix-recommendation-challenge/blob/main/2.jpg)
+ 
+ ## Factors of model :-
+  * Number of iterations =40.
+  * k =25 ***(for matrices columns)***
+  * lambda=0.1 
+  * learning rate = 0.001
+  
+ ## Output and significance :- 
+ * Decreased orginal model rmse by 9 percent which is show by line plot in the code.
+ 
+ # Improvements done to model :- 
+ * A new model called Latent factor model with biases has been implemented which showed slight improvement in the rmse and this iscompared in code file.
  
