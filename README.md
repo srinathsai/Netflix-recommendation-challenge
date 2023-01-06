@@ -10,6 +10,9 @@ implemented model and refined with another model which stands 3rd in the contest
  ![This is an image](https://github.com/srinathsai/Netflix-recommendation-challenge/blob/main/1.jpg)
  ![This is an image](https://github.com/srinathsai/Netflix-recommendation-challenge/blob/main/2.jpg)
  
+ # Dataset used :- 
+ * A sample of orginal dataset provided for the contest.
+ 
  ## Factors of model :-
   * Number of iterations =40.
   * k =25 ***(for matrices columns)***
@@ -24,5 +27,6 @@ implemented model and refined with another model which stands 3rd in the contest
 
  ## Lf factor model with biases :- 
   * It is the extension of LF model with biases added to users and ratings in the formula and below is the formula used in building model :- 
-  * 
+    ![This is an image](https://github.com/srinathsai/Netflix-recommendation-challenge/blob/main/3.jpg)
+ 
  
