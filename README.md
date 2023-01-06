@@ -21,4 +21,8 @@ implemented model and refined with another model which stands 3rd in the contest
  
  # Improvements done to model :- 
  * A new model called Latent factor model with biases has been implemented which showed slight improvement in the rmse and this iscompared in code file.
+
+ ## Lf factor model with biases :- 
+  * It is the extension of LF model with biases added to users and ratings in the formula and below is the formula used in building model :- 
+  * 
  
